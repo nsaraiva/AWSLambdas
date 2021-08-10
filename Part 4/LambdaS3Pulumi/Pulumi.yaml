@@ -1,0 +1,3 @@
+name: LambdaS3Pulumi
+runtime: dotnet
+description: A lambda with its zip in S3
