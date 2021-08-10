@@ -351,3 +351,7 @@ MigrationBackup/
 
 #Solution file
 AWSLambdas.sln
+
+#Compressed files
+*.zip
+*.rar
