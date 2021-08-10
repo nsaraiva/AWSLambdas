@@ -1,0 +1,4 @@
+name: LambdaS3AutoUpdatePulumi
+runtime: dotnet
+description: A lambda with zip in S3, and a lambda triggered by an upload to S3 to
+  refresh the first lambda.
